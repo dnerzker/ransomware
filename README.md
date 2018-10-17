@@ -45,8 +45,8 @@ The malware encrypt with a RSA-4096 (RSA-OAEP-4096 + SHA256) public key any payl
 First of all download the project:
 
 ```bash
-go get -v github.com/mauri870/ransomware
-cd $GOPATH/src/github.com/mauri870/ransomware
+go get -v github.com/dnerzker/ransomware
+cd $GOPATH/src/github.com/dnerzker/ransomware
 ```
 
 > If you have Docker skip to the next section.
@@ -131,7 +131,7 @@ curl http://2af7161c.ngrok.io
 
 If you see a `OK` and some logs in the server output you are ready to go.
 
-Now move the `ransomware.exe` and `unlocker.exe` to the VM along with some dummy files to test the malware. You can take a look at [cmd/common.go](https://github.com/mauri870/ransomware/blob/master/cmd/common.go) to see some configuration options like file extensions to match, directories to scan, skipped folders, max size to match a file among others.
+Now move the `ransomware.exe` and `unlocker.exe` to the VM along with some dummy files to test the malware. You can take a look at [cmd/common.go](https://github.com/dnerzker/ransomware/blob/master/cmd/common.go) to see some configuration options like file extensions to match, directories to scan, skipped folders, max size to match a file among others.
 
 Then simply run the `ransomware.exe` and see the magic happens :smile:.
 
@@ -164,3 +164,9 @@ The server has only two endpoints:
 ## The end
 
 As you can see, building a functional ransomware, with some of the best existing algorithms is not dificult, anyone with some programming skills can build that in any programming language.
+
+
+```bash
+good luck
+by ./Dnerzker
+```

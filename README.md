@@ -166,6 +166,9 @@ The server has only two endpoints:
 As you can see, building a functional ransomware, with some of the best existing algorithms is not dificult, anyone with some programming skills can build that in any programming language.
 
 
+:smile:
+
+
 ```bash
 good luck :smile:
 by ./Dnerzker

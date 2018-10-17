@@ -170,6 +170,6 @@ As you can see, building a functional ransomware, with some of the best existing
 
 
 ```bash
-good luck :smile:
+good luck 
 by ./Dnerzker
 ```

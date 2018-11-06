@@ -175,3 +175,5 @@ tapi ... tidak untuk disalah gunakan yaa ..!!!
  
 by ./Dnerzker
 ```
+
+# thx u 

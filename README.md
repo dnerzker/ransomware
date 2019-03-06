@@ -175,5 +175,6 @@ tapi ... tidak untuk disalah gunakan yaa ..!!!
  
 by ./Dnerzker
 ```
-# Program ini berisi file malware langsung dan berbahaya. Program ini dimaksudkan hanya digunakan untuk analisis dan penelitian malware. :smile
+# Program ini berisi file malware langsung dan berbahaya. Program ini dimaksudkan hanya digunakan untuk analisis dan penelitian malware. *./dnerzker
+
 # thx u 
